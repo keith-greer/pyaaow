@@ -1,3 +1,3 @@
 # pyaaow!!
 
-pyaaow!! is a fully functional bullet journal application.
+pyaaow!! is a fully functional bullet journal application built with javascript.
